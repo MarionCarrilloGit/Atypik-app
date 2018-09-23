@@ -1,0 +1,7 @@
+{
+  "name": "atypikhouse-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
